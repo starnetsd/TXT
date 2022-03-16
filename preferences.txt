@@ -1,0 +1,6 @@
+Movie: Marvel Studios
+Series: FRIENDS
+Food: Cheese cake
+Season: Spring
+CountryToVisit: Madagascar
+
