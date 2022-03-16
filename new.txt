@@ -1,0 +1,5 @@
+Name: Dmitry Starski
+Age: 30
+Pets: none
+Salary: 100.000
+
